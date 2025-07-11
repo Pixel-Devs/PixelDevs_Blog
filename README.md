@@ -1,6 +1,6 @@
 # PixelDevs Blog
 
-Este é o repositório oficial da **PixelDevs Blog**, um projeto criado com [Next.js](https://nextjs.org) para compartilhar os projetos, aprendizados e ideias da nossa equipe de desenvolvedores.
+Este é o repositório oficial da **PixelDevs**, um projeto criado com [Next.js](https://nextjs.org) para compartilhar os projetos, aprendizados e ideias da nossa equipe de desenvolvedores.
 
 Nosso objetivo é manter um registro técnico e inspirador das nossas criações, além de divulgar conhecimento e boas práticas no desenvolvimento web.
 
